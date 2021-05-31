@@ -1,7 +1,9 @@
 # ratstats
 
 ✔️ Fast
+
 ✔️ Inaccurate (only uses extent of features)
+
 ✔️ Simple
 
 "Don't use this" -your manager probably
