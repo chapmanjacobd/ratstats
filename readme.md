@@ -1,4 +1,6 @@
-# ratstats
+# leading-brand zonal statistics software getting you down?
+
+## introducing ratstats!
 
 ✔️ Fast
 
